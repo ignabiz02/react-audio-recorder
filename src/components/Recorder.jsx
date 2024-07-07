@@ -110,7 +110,7 @@ export default function Recorder() {
         )}
       </div>
 
-      {audioURL && <audio controls class=" p-2" src={audioURL}></audio>}
+      {audioURL && <audio controls className=" p-2" src={audioURL}></audio>}
     </>
   );
 }
