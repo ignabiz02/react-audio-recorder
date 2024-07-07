@@ -1,7 +1,7 @@
 
 This is an implementation of `useAudioRecorder` from `react-audio-voice-recorder`. 
 
-It uses `shadcn-ui`and `tailwind css`for UI
+It uses `shadcn-ui`and `tailwind css` for UI
 
 [See it in action]( https://react-audio-recorder-ign02.vercel.app/) 
 
