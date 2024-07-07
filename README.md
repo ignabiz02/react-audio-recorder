@@ -1,7 +1,7 @@
 
-This is an implementation of `useAudioRecorder` from `react-audio-voice-recorder`. 
+This is an implementation of `useAudioRecorder` from `react-audio-voice-recorder`
 
-It uses `shadcn-ui`and `tailwind css` for UI
+It uses `shadcn-ui`and `tailwind css` for the UI
 
 [See it in action]( https://react-audio-recorder-ign02.vercel.app/) 
 
@@ -12,6 +12,6 @@ It uses `shadcn-ui`and `tailwind css` for UI
 npm install
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
 
-This is a [Next.js] project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Next.js project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
