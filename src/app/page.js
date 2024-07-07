@@ -1,9 +1,11 @@
-import ColorTest from '@/components/ColorTest';
+import Recorder from '@/components/Recorder';
 
 export default function Home() {
   return (
     <>
-      <ColorTest />
+      <div className="mx-16 my-16">
+        <Recorder />
+      </div>
     </>
   );
 }
